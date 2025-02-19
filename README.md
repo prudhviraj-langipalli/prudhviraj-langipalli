@@ -24,7 +24,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![AWX](https://img.shields.io/badge/AWX-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=python&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CED?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)  
