@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=prudhviraj-langipalli&style=for-the-badge&color=0e75b6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
@@ -22,9 +22,9 @@
 ## 🧬 About Me
 
 ```yaml
-name: "Your Name"
+name: "Prudhviraj Langipalli"
 role: "DevOps & Automation Engineer"
-location: "🌍 Your Location"
+location: "BLR"
 focus:
   - "Infrastructure as Code (IaC)"
   - "CI/CD Pipeline Design & Optimization"
@@ -94,7 +94,7 @@ philosophy: "If you're doing it twice, automate it. If it's manual, it's broken.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=prudhviraj-langipalli&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -104,8 +104,8 @@ philosophy: "If you're doing it twice, automate it. If it's manual, it's broken.
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=prudhviraj-langipalli&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/prudhviraj-langipalli/YOUR_REPO_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=prudhviraj-langipalli&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/prudhviraj-langipalli/YOUR_REPO_2)
 
 </div>
 
@@ -115,7 +115,7 @@ philosophy: "If you're doing it twice, automate it. If it's manual, it's broken.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=prudhviraj-langipalli&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -125,7 +125,7 @@ philosophy: "If you're doing it twice, automate it. If it's manual, it's broken.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prudhviraj-langipalli&theme=tokyo-night&hide_border=true)
 
 </div>
 
